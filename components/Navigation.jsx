@@ -5,6 +5,7 @@ import Link from "next/link";
 const links = [
     { route: "/", label: "Home" },
     { route: "/about", label: "About" },
+    { route: "/posts", label: "Posts" },
 ];
 
 export function Navigation() {
